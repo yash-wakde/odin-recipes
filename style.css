@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(253, 232, 236);
+}
+
+img{
+    height:auto;
+    width: 500px;
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    text-align: center;
+    font-size: 36px;
+    font-weight:500px;
+}
+
+.main{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    color:gray;
+}
