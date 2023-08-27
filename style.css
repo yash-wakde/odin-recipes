@@ -15,6 +15,14 @@ h1{
     font-weight:500px;
 }
 
+h3{
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    font-size: 24px;
+    font-weight:500px;
+}
+
+
 .main{
     font-family: 'Courier New', Courier, monospace;
     font-size: 18px;
