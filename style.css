@@ -25,9 +25,16 @@ h3{
     font-weight:500px;
 }
 
+ul{
+    display:inline-block;
+    text-align:left;
+     
+}
 
 .main{
     font-family: 'Courier New', Courier, monospace;
+    text-align: center;
     font-size: 18px;
-    color:gray;
+    color: black;
+
 }
